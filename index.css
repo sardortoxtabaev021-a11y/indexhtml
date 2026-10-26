@@ -1,0 +1,772 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 617px;
+    background-color: #141024;
+}
+
+.boxtop1 {
+    color: #ffff;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 17px;
+    margin-left: 10px;
+}
+
+.iop {
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: #ffff;
+    background-color: #141024;
+}
+
+.boxtop2 {
+    display: flex;
+    gap: 10px;
+    margin-left: 260px;
+    margin-top: -30px;
+}
+
+.tophelo {
+    font-size: 25px;
+    opacity: 1;
+    margin-top: 50px;
+    color: #ffff;
+}
+
+.bol {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.tophelo1 {
+    width: 270px;
+    height: 78px;
+    opacity: 1;
+    margin-left: 55px;
+    color: #ffff;
+    margin-top: 10px;
+}
+
+.bol1 {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.kimo {
+    width: 273;
+    height: 273;
+    opacity: 1;
+    border-width: 27.89px;
+    margin-left: 45px;
+    margin-top: 56px;
+}
+
+.kimo1 {
+    width: 180;
+    height: 320;
+    opacity: 1;
+    margin-left: 95px;
+    margin-top: -310px;
+}
+
+.nil12 {
+    width: 350px;
+    height: 70px;
+    background-color: #D52027;
+    color: #ffff;
+    border-color: #D52027;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: -60px;
+    position: absolute;
+}
+
+.milk,
+.need {
+    display: none;
+}
+
+.noltop {
+    margin-left: 10px;
+    margin-top: 100px;
+
+}
+
+.big {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 160%;
+    letter-spacing: 0%;
+    position: absolute;
+}
+
+.qalay {
+    font-size: 17px;
+}
+
+.molour {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.box {
+    justify-content: center;
+    display: flex;
+    padding-top: 150px;
+}
+
+.box1 {
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.box2 {
+    justify-content: center;
+    display: flex;
+    margin-top: 60px;
+}
+
+.box3 {
+    margin-top: 30px;
+    opacity: 1;
+}
+
+.jil {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 17px;
+    leading-trim: NONE;
+    line-height: 160%;
+    letter-spacing: 0%;
+}
+
+.box4 {
+    justify-content: center;
+    display: flex;
+    margin-top: 60px;
+}
+
+.box5 {
+    font-size: 17px;
+    margin-top: 30px;
+}
+
+.box6 {
+    justify-content: center;
+    display: flex;
+    margin-top: 60px;
+}
+
+.box7 {
+    margin-top: 30px;
+}
+
+.noltop1 {
+    display: none;
+}
+
+.container2 {
+    width: 100%;
+    height: 762px;
+    background-color: #F9F9F9;
+    margin-top: 100px;
+}
+
+.nol {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 50px;
+}
+
+.nol1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 12px;
+}
+
+.nol2 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.nol3,
+.nol0 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 12px;
+}
+
+.nol4 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+.hip {
+    width: 260px;
+    height: 60px;
+    background-color: #ffff;
+    border-radius: 5px;
+    border-color: #ffff;
+    margin-left: 60px;
+    margin-top: -40px;
+}
+
+.b {
+    border: none;
+    background-color: #F9F9F9;
+    margin-left: 270px;
+    margin-top: 10px;
+}
+
+.nol7 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -20px;
+    font-size: 12px;
+}
+
+.nol8 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.class2 {
+    display: none;
+}
+
+.wret {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 80px;
+}
+
+.butonour {
+    width: 250px;
+    height: 400px;
+    background-color: #F9F9F9;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+.butonour:hover {
+    border-color: black;
+}
+
+.kil {
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+}
+
+.kil1 {
+    font-family: sans-serif;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.kil2 {
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.kil3 {
+    color: #D52027;
+    font-family: sans-serif;
+    font-size: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.butonour1,
+.butonour2,
+.butonour3,
+.butonour4 {
+    display: none;
+}
+
+.way {
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.cj {
+    width: 250px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.nik {
+    width: 300px;
+    height: 420px;
+    background-color: #141024;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.html,
+.html1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffff;
+    padding-top: 40px;
+}
+
+.html1 {
+    font-size: 27px;
+    padding-top: 50px;
+}
+
+.html2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffff;
+    margin-top: 50px;
+}
+
+.bh {
+    width: 260px;
+    height: 60px;
+    background-color: #D52027;
+    border-radius: 5px;
+    color: #ffff;
+    border: none;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.nik1,
+.nik2 {
+    width: 300px;
+    height: 420px;
+    background-color: #F9F9F9;
+    border: #14102433;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.html5,
+.html9 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #141024;
+    padding-top: 40px;
+}
+
+.html6,
+.html10 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #141024;
+    padding-top: 40px;
+    font-size: 27px;
+    padding-top: 50px;
+}
+
+.html7,
+.html11 {
+    text-align: center;
+    font-family: sans-serif;
+    color: #141024;
+    margin-top: 50px;
+}
+.container5{
+    width: 100%;
+    height: 536px;
+    background-color: #D52027;
+    margin-top: 40px;
+}
+.top{
+    text-align: center;
+    color: #ffff;
+    font-family: sans-serif;
+    width: 320px;
+    margin-left: 25px;
+    padding-top: 50px;
+}
+.nh{
+    text-align: center;
+    color: #ffff;
+    font-family: sans-serif;
+    width: 290px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.textarea3,.textarea2,.textarea1 {
+    width: 350px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-top: 50px;
+    background-color: #ffff;
+    border-color: #ffff;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.textarea2,.textarea1{
+    margin-top: 10px;
+}
+.oaa{
+    width: 350px;
+    height: 60px;
+    background-color: #141024;
+    border-radius: 5px;
+    margin-left: 15px;
+    color: #ffff;
+    border: none;
+    margin-top: 20px;
+}
+.container6{
+    width: 100%;
+    height: 197px;
+    background-color: #141024;
+    text-align: center;
+}
+.h1,.h2,.h3{
+    text-align: center;
+    color: #ffff;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+@media screen and (min-width:1920px) {
+    .container {
+        height: 1080px;
+    }
+
+    .boxtop2 {
+        display: none;
+    }
+
+    .boxtop1 {
+        margin-left: 100px;
+        padding-top: 30px;
+    }
+
+    .milk {
+        justify-content: center;
+        display: flex;
+        gap: 40px;
+        color: #ffff;
+        font-family: sans-serif;
+        margin-top: -20px;
+    }
+
+    .need {
+        display: block;
+        color: #ffff;
+        font-family: sans-serif;
+        margin-left: 1680px;
+        margin-top: -20px;
+    }
+
+    .tophelo {
+        margin-left: -700px;
+        margin-top: 250px;
+    }
+
+    .bol {
+        font-size: 70px;
+    }
+
+    .ese {
+        width: 783px;
+        height: 783px;
+        opacity: 1;
+        border-width: 80px;
+        margin-left: 850px;
+        margin-top: -358px;
+    }
+
+    .class {
+        width: 525px;
+        height: 947px;
+        opacity: 1;
+        margin-left: 940px;
+        margin-top: -572px;
+    }
+
+    .tophelo1 {
+        width: 488px;
+        height: 64px;
+        opacity: 1;
+        margin-left: 345px;
+        margin-top: 50px;
+    }
+
+    .bol1 {
+        font-family: sans-serif;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 20px;
+        line-height: 160%;
+        letter-spacing: 0%;
+        text-align: start;
+    }
+
+    .nil12 {
+        width: 260px;
+        height: 79px;
+        opacity: 1;
+        border-radius: 5px;
+        padding-top: 25px;
+        padding-right: 54px;
+        padding-bottom: 25px;
+        padding-left: 54px;
+        gap: 10px;
+    }
+
+    .kimo2 {
+        margin-left: 335px;
+        margin-top: -400px;
+    }
+
+    .noltop {
+        display: none;
+    }
+
+    .noltop1 {
+        display: block;
+        font-size: 30px;
+        font-family: sans-serif;
+        margin-left: 300px;
+        margin-top: 130px;
+    }
+
+    .molour {
+        text-align: start;
+        justify-content: start;
+        display: flex;
+    }
+
+    .our3 {
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+
+    .our2 {
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+
+    .our1 {
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+
+    .our {
+        margin-left: 300px;
+        margin-top: -50px;
+    }
+
+    .class1 {
+        display: none;
+    }
+
+    .class2 {
+        display: block;
+        text-align: start;
+        margin-left: 300px;
+        font-size: 40px;
+    }
+
+    .ourr {
+        text-align: start;
+        display: flex;
+    }
+
+    .mpl,
+    .mpl1,
+    .mpl2 {
+        text-align: start;
+    }
+
+    .nol2,
+    .nol1 {
+        text-align: start;
+        margin-left: 300px;
+    }
+
+    .nol4,
+    .nol3 {
+        text-align: start;
+        margin-left: 120px;
+    }
+
+    .nol0 {
+        margin-left: -100px;
+    }
+
+    .nol8,
+    .nol0 {
+        text-align: start;
+        margin-left: 120px;
+    }
+
+    .nol6 {
+        position: absolute;
+        margin-left: 970px;
+        margin-top: 40px;
+    }
+
+    .nol5 {
+        margin-left: 1180px;
+        position: absolute;
+    }
+
+    .container2 {
+        height: 350px;
+    }
+
+    .butonour1,
+    .butonour2,
+    .butonour3,
+    .butonour4 {
+        display: block;
+    }
+
+    .new {
+        width: 220px;
+        height: 305px;
+        margin-left: 15px;
+        padding-top: 10px;
+    }
+
+    .butonour1,
+    .butonour2,
+    .butonour3,
+    .butonour4 {
+        width: 250px;
+        height: 400px;
+        background-color: #F9F9F9;
+        margin-left: 60px;
+        border-radius: 10px;
+    }
+
+    .look1,
+    .play1,
+    .my1,
+    .kol1 {
+        font-family: sans-serif;
+        margin-left: 15px;
+        font-size: 13px;
+        margin-top: 10px;
+    }
+
+    .look2,
+    .play2,
+    .my2,
+    .kol2 {
+        font-size: 12px;
+        font-family: sans-serif;
+        margin-left: 15px;
+        margin-top: 5px;
+    }
+
+    .look3,
+    .play3,
+    .my3,
+    .kol3 {
+        color: #D52027;
+        font-family: sans-serif;
+        font-size: 10px;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+
+    .moool {
+        justify-content: center;
+        display: flex;
+        margin-top: 50px;
+    }
+
+    .good {
+        justify-content: center;
+        display: flex;
+        margin-left: -300px;
+    }
+    .way{
+        margin-left: 350px;
+    }
+    .cj{
+        width: 500px;
+        font-size: 40px;
+    }
+    .nik1,.nik2{
+        margin-left: 100px;
+    }
+    .textarea3,.textarea2,.textarea1,.oaa{
+        width: 500px;
+        height: 64px;
+        padding-top: -100px;
+        font-size: 20px;
+    }
+    .goodour{
+        margin-left: 1000px;
+        padding-top: 70px;
+    }
+    .container5{
+        margin-top: 140px;
+    }
+    .top{
+        width: 400px;
+        position: absolute;
+        text-align: start;
+        margin-left: 465px;
+        font-size: 20px;
+        margin-top: 70px;
+    }
+    .nh{
+        width: 500px;
+        font-size: 18px;
+        margin-left: 400px;
+        padding-top: 220px;
+        position: absolute;
+    }
+    .h2{
+        margin-left: 1600px;
+    }
+    .h1,.h3{
+        margin-left: 100px;
+        margin-top: 30px;
+        position: absolute;
+    }
+    .h3{
+       margin-left: 100px; 
+    }
+}
